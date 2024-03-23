@@ -1,0 +1,6 @@
+{
+    "bloc.newBlocTemplate.createDirectory": true,
+    "bloc.newBlocTemplate.useSealedClasses": true,
+    "java.help.showReleaseNotes": false,
+    "vsintellicode.java.completionsEnabled": false
+}
